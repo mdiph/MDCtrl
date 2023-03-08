@@ -1,6 +1,10 @@
 # MDCtrl
 DIY simple and ultraportable controller powered by [GP2040-CE Firmware](https://github.com/OpenStickCommunity/GP2040-CE)
 
+---
+
+# BOM
+
 The component that you need to build MDCtrl:
 - MDCtrl PCB
 - MDCtrl Case (2D or 3D Version)
