@@ -1,6 +1,7 @@
 # MDCtrl
 DIY simple and ultraportable controller powered by [GP2040-CE Firmware](https://github.com/OpenStickCommunity/GP2040-CE)
 
+![Finished MDCtrl](Ver1/images/finished_controller.jpg)
 ---
 
 # BOM
@@ -22,15 +23,15 @@ PCB thickness should be 1,6mm (Double layer) with masking color of your choice
 
 ---
 
-# Building
+# New Version
 
-~~Still Working on it~~
+New version will have better ergonomic and use RP2040 waveshare for smaller pcb (when i have the time).
 
 ---
 
 # Sources
 
-PCB Design uses the following sources:
+PCB Design built with the following sources:
 - [Firmware GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE)
 - [Raspberry Pi Pico Footprint by Nicolò Carandini](https://github.com/ncarandini/KiCad-RP-Pico)
 - [Keyboard Switches Footprint](https://github.com/ebastler/marbastlib)
