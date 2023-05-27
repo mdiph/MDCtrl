@@ -1,4 +1,4 @@
-# Case Install Guide
+# Case Install Guide (For ver1)
 
 ## **Case Components**
 ---
