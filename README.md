@@ -1,7 +1,7 @@
 # MDCtrl
 DIY simple and ultraportable controller powered by [GP2040-CE Firmware](https://github.com/OpenStickCommunity/GP2040-CE)
 
-![Finished MDCtrl](Ver1/images/finished_controller.jpg)
+![Finished MDCtrl](Assets/images/finished.jpg)
 ---
 
 # BOM
