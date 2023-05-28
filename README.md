@@ -20,13 +20,17 @@ The component that you need to build MDCtrl:
 
 PCB thickness should be 1,6mm (Double layer) with masking color of your choice
 
----
 
-# New Version
+# Board
 
-New version will have better ergonomic and use RP2040 waveshare for smaller pcb (when i have the time).
+Board Version |   [Ver1](/Ver1/)  |  [Ver2 (WIP)](/Ver2/)  |
+--------------|:-----------------:|:----------------:|
+PCB Dimension | 175,418x87,312mm  | WIP              |
+Board Used    | [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) | [Waveshare RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)|
+Port          | Micro USB         | USB-C            |
 
----
+
+
 
 # Sources
 
