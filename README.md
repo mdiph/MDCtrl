@@ -8,7 +8,7 @@ DIY simple and ultraportable controller powered by [GP2040-CE Firmware](https://
 
 The component that you need to build MDCtrl:
 - MDCtrl [PCB](/Ver1/pcb/)
-- MDCtrl Case [(2D)](/Case/Case2D/)
+- MDCtrl Case [(2D)](/Case/)
 - Raspberry Pi Pico 
 - **12** Kailh hotswap sockets (Optional)
 - **12** Keyboard switches
